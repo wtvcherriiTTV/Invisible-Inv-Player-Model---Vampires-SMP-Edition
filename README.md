@@ -9,7 +9,7 @@ This can also be toggled with a set keybind (default is P), armour will still be
 - Make sure you got both a java 21+ jdk and git installed and in your path
 - Run the following commands in your favorite terminal:
 - ````shell
-  git clone "https://github.com/lunatic-gh/no-inv-character](https://github.com/wtvcherriiTTV/Invisible-Inv-Player-Model---Vampires-SMP-Edition"
+  git clone "https://github.com/wtvcherriiTTV/Invisible-Inv-Player-Model---Vampires-SMP-Edition"
   cd "Invisible-Inv-Player-Model---Vampires-SMP-Edition"
   .\gradlew build # On Windows
   ./gradle build # On Linux/MacOS
